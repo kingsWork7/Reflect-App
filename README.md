@@ -1,11 +1,26 @@
+# Reflect App
 
-  # Mobile Journaling App
+Reflect App is a personal journaling and reflection tool that helps users track their well-being, organize tasks, and review progress.
 
-  This is a code bundle for Mobile Journaling App. The original project is available at https://www.figma.com/design/xoYbyu02ZvcPuQPCQ3iVxR/Mobile-Journaling-App.
+## Features
 
-  ## Running the code
+- Daily reflection
+- Tags and calendar view
+- Mood and pattern tracking
+- Secure and private
 
-  Run `npm i` to install the dependencies.
+## Usage
 
-  Run `npm run dev` to start the development server.
-  
+Open the app in a browser and start reflecting on your projects and well-being.
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- React
+- AI
+
+## Preview
+
+![Reflect App Screenshot](ReflectApp.png)
