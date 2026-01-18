@@ -23,4 +23,4 @@ Open the app in a browser and start reflecting on your projects and well-being.
 
 ## Preview
 
-![Reflect App Screenshot](ReflectApp.png)
+![Reflect App Screenshot](assets/ReflectApp.png)
